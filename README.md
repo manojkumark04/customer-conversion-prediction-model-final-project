@@ -6,7 +6,7 @@ You are provided with historical marketing data of the insurance company and are
 
 Data Description
 
-The dataset used in this project contains information about the customers who were contacted during a marketing campaign for selling term deposit subscriptions. It consists of 17 input variables and 1 target variable indicating if the customer has subscribed or not. The dataset has 41,188 rows and 18 columns.
+The dataset used in this project contains information about the customers who were contacted during a marketing campaign for selling term deposit subscriptions. It consists of 10 input variables and 1 target variable indicating if the customer has subscribed or not. The dataset has 45205 rows and 11columns.
 
 Project Overview
 In this project, we will be performing the following steps:
